@@ -2,7 +2,7 @@
 
 **Offensive Security Engineer • Web & Binary Penetration Tester**  
 MSc Student in Electrical Engineering – Renewable Energy Systems  
-Paris, France • Algerian roots  
+• Algerian roots  
 **Languages**: Tamazight (native) • Arabic (native) • French (fluent) • English (fluent) • Italian (basic) • Spanish (basic)
 
 > "Security is understanding how things break. Every bug = lesson. Every exploit = knowledge."
