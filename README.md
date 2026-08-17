@@ -13,16 +13,6 @@ HTB • bug bounties • CTF competitions.
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ASSEMMERZOUG&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=e8eaf0&bg_color=0f1117)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASSEMMERZOUG&layout=compact&theme=dark&hide_border=true&title_color=00ff88&text_color=e8eaf0&bg_color=0f1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ASSEMMERZOUG&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0f1117&sideLabels=e8eaf0&dates=8892a4)
-
----
-
 ## Skills
 
 - **Pentest**: Web App • API Security • Auth Bypass • SQLi • XSS • IDOR • SSRF • RCE
