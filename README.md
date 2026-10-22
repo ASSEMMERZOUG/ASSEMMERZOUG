@@ -2,9 +2,9 @@
 
 # Assem Merzoug
 
-**Web and API pentester.** I break authentication, authorization and business
-logic — the parts a scanner never reaches — and then write it up the way a
-client reads it.
+**Web and API pentester.** I test the whole application — recon, authentication,
+injection, access control, business logic, and the server underneath it — then
+write it up the way a client reads it.
 
 <sub>Palermo, Italy · MSc Automation &amp; Systems Engineering · BSc Electrical Engineering → offensive security</sub>
 
