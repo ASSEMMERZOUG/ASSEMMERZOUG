@@ -6,7 +6,7 @@
 injection, access control, business logic, and the server underneath it — then
 write it up the way a client reads it.
 
-<sub>Palermo, Italy · MSc Automation &amp; Systems Engineering · BSc Electrical Engineering → offensive security</sub>
+<sub>MSc Automation &amp; Systems Engineering · BSc Electrical Engineering → offensive security</sub>
 
 [Portfolio](https://assemmerzoug.github.io/Portfolio/) ·
 [Writeups](https://github.com/ASSEMMERZOUG/ctf-writeups) ·
