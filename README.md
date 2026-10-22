@@ -6,7 +6,7 @@
 logic — the parts a scanner never reaches — and then write it up the way a
 client reads it.
 
-<sub>Algiers, Algeria · MSc Electrical Engineering → offensive security</sub>
+<sub>Palermo, Italy · MSc Automation &amp; Systems Engineering · BSc Electrical Engineering → offensive security</sub>
 
 [Portfolio](https://assemmerzoug.github.io/Portfolio/) ·
 [Writeups](https://github.com/ASSEMMERZOUG/ctf-writeups) ·
